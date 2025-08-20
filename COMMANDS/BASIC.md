@@ -21,11 +21,11 @@
 - 터미널 지난 명령어 및 결과 지우기
 ``` bash
 ```
-#### command --help
+#### *command* --help
 - 명령어 관련 도움말 호출
 ``` bash
 ```
-#### man command
+#### man *command*
 - 명령어 관련 설명 호출
 ``` bash
 ```
